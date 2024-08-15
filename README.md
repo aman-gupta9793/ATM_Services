@@ -17,11 +17,25 @@ and perform various banking operations such as checking balances, withdrawing fu
 ## Requirements
   * Java Development Kit(JDK 17 or above)
   * IDE : IntelliJ (or) Eclipse or Command Line Inteface
-  
-## Usage
-  * When prompted, enter numeric choices to navigate through the menu options.
-  * For login, enter an existing customer number and corresponding PIN.
-  * Follow on-screen instructions to perform desired operations.
+
+## How to use
+ To get started with the ATM project, follow these steps:
+ 1. **Clone the repository**: `git clone https://github.com/aman-gupti/ATM_Services.git`
+   
+ 2. **Navigate to the project directory**: `cd ATM-Services`
+
+ 3. **Compile the Code**: You can use any Java IDE (e.g., IntelliJ IDEA, Eclipse) to compile and run the project, or you can use the command line:
+                          javac atmServices/*.java
+
+ 4. **Run the application**: Once compiled, you can run the main program:  java atmServices.OptionMenu
+
+## Interact with the ATM System:
+ Follow the on-screen prompts to:
+
+  * Login with your customer number and PIN
+  * Access your Checking or Savings account
+  * View balances, withdraw, deposit, or transfer funds
+  * Create a new account if you don't have one
 
 ## Contributing
   Contributions are welcome. Feel free to fork the repository, make changes, and submit pull requests.
