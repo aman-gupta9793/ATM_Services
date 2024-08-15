@@ -4,7 +4,7 @@ This is a simple ATM (Automated Teller Machine) simulation project written in Ja
 and perform various banking operations such as checking balances, withdrawing funds, depositing funds, and transferring funds between checking and savings accounts.
 
 ## Features
-  * **Login-System** : Users can log in using their customer number and PIN.
+  * **Login System** : Users can log in using their customer number and PIN.
   * **Account Types**: Supports both Checking and Savings accounts.
   * **Operations**:
       * View account balances.
@@ -16,7 +16,7 @@ and perform various banking operations such as checking balances, withdrawing fu
 
 ## Requirements
   * Java Development Kit(JDK 17 or above)
-  * IDE : IntelliJ (or) Eclipse or Command Line Inteface
+  * IntelliJ, Eclipse (or) Command Line Inteface
 
 ## How to use
  To get started with the ATM project, follow these steps:
